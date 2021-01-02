@@ -1,0 +1,1 @@
+[{"id":"31b3c3ec.7c14cc","type":"exec","z":"dee7dc14.c50ad","command":"python C:\\Users/Dell/Documents/opensky/Noise_station5a.py","addpay":false,"append":"","useSpawn":"false","timer":"","oldrc":false,"name":"executing python script","x":410,"y":100,"wires":[["214d8104.c9c4de"],["214d8104.c9c4de"],["214d8104.c9c4de"]]}]

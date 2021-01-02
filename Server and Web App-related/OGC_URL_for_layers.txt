@@ -1,0 +1,54 @@
+
+LINK TO DASHBOARD+++++++
+http://arcg.is/GeOun
+
+LINK TO WEBAPP+++++++++
+http://zgis.maps.arcgis.com/apps/webappviewer/index.html?id=2ff4cba947074df4b5070411c6fc16b9
+
+
+
++++++++ airport noise 24h> arcgis server: +++++++++++
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/Noise_Salzburg_Airport_24h/MapServer
+
++++++opensky API: ++++++++
+https://opensky-network.org/api/states/all?lamin=47.644494&lomin=12.864831&lamax=47.961803&lomax=13.260609
+
+
++++++REST URL real time flights (arcgis server)-- crashing all the time too ++++++
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/sanpic-output-airtraffic-290620/StreamServer
+
+
+++++WFS layers (geoserver):+++++++
+https://zgis221.geo.sbg.ac.at/geoserver/sanpic/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=sanpic:School_salzburg&maxFeatures=50&outputFormat=application%2Fgml%2Bxml%3B%20version%3D3.2
+
+
+
+++++ WMS layers (ArcGIS server) -- crashing all the time +++++
+
+jan noise:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/mean_noiseJan2020/ImageServer
+jan noise zone:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/Mean_Noisezone_jan2020_tif/ImageServer
+
+feb noise:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/mean_noise_feb2020/ImageServer
+feb noise zone:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/Mean_NoiseZone_feb2020/ImageServer
+
+march noise:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/mean_noise_mar2020_tif/ImageServer
+march noise zone:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/Mean_Noise_zone_March2020_tif/ImageServer
+
+
+april noise:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/Mean_Noise_april2020_tif/ImageServer
+april mean noise zone:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/Mean_Noise_Zone_apr2020/ImageServer
+
+
+may noise:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/Mean_Noise_May2020_tif/ImageServer
+may noise zone:
+https://zgis226.geo.sbg.ac.at/arcgis/rest/services/20S856162/Mean_NoiseZone_May2020_tif/ImageServer
+
